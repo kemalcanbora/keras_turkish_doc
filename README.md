@@ -1,2 +1,2 @@
-# keras_turkish_doc
+# Keras Turkish 
 Keras kütüphanesinin türkçe dökümantasyonu 
